@@ -55,3 +55,10 @@ The designed filter successfully reduces high-frequency muscle noise from the EC
 * Priyanshu Raj Singh
 * Dhairya Shivhare
 
+<img width="1135" height="741" alt="lpf_freq_response" src="https://github.com/user-attachments/assets/22e7f2e6-2521-4924-a4d4-3e882a76a9b9" />
+<img width="1108" height="746" alt="time_domain_plot" src="https://github.com/user-attachments/assets/851d5806-a14e-46d8-a600-4412f3210df0" />
+<img width="1135" height="746" alt="freq_domain_plot" src="https://github.com/user-attachments/assets/594a1a73-a870-41e0-abfc-712e0d8b6435" />
+
+
+
+
